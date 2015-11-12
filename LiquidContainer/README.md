@@ -8,7 +8,7 @@ Caveat: The LiquidContainer represents my first forays into TouchGFX programming
 #TouchGFX Version
 This widget was created and tested using TouchGFX version 4.4.1.
 #Functional description
-The initialization function takes more parameters than you can shake a stick at, but don't despair. Once your widgets are up and running, they are completely maintenance free, providing you with years of uninterrupted, carefree clicking and scrolling. So play around with the values in the examples below and see how it affects the behavior. Soon, you will be tweaking widgets like a pro.
+The initialization function takes more parameters than you can shake a stick at. But don't despair. Once your widgets are up and running, they are completely maintenance free, providing you with years of uninterrupted, carefree clicking and scrolling. So play around with the values in the examples below and see how they affects the behavior. Soon, you will be tweaking widgets like a pro.
 
 	// show beaker
 	ClickListener<LiquidContainer> beaker;
