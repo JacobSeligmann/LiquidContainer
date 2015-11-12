@@ -1,3 +1,4 @@
+![example](screenshots/LiquidContainer.gif "This is what LiquidContainer widgets look like. Only silky smooth, of course. (I'm even worse at building animated GIFs than I am at programming. Thank goodness I do neither for a living.)")
 #Purpose
 Tired of plain old linear gauges? Then spice up your interface with a liquid container. Rather than showing your data statically, this widget sports a scrolling level image. Use it to add waves, dynamic gradients, or whatever strikes your fancy.
 
@@ -6,8 +7,6 @@ The liquid container uses two images, one for the container (which is static) an
 For demonstration purposes, the LiquidContainer contains a text displaying the current value numerically. Also, it supports level adjustment by clicking (top half to increase, bottom half to decrease, in user-specified increments). Feel free to change or disable as you see fit.
 
 Caveat: The LiquidContainer represents my first forays into TouchGFX programming. As you can undoubtedly tell, my C++ coding skills are somewhat rusty. But hey, the code compiles and the widget seems to work, so I thought I might as well share it. Enjoy!
-
-![example](screenshots/LiquidContainer.gif "This is what LiquidContainer widgets may looks like. Only silky smooth animation, of course. (I'm even worse at building animated GIFs than I am at programming. Thank goodness I do neither for a living.)")
 
 #TouchGFX Version
 This widget was created and tested using TouchGFX version 4.4.1.
