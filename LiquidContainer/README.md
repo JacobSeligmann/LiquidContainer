@@ -1,6 +1,6 @@
 ![example](screenshots/LiquidContainer.gif "This is what LiquidContainer widgets look like. Only silky smooth, of course. (I'm even worse at building animated GIFs than I am at programming. Thank goodness I do neither for a living.)")
 #Purpose
-Tired of plain old linear gauges? Then spice up your interface with a liquid container. Rather than showing your data statically, this widget sports a scrolling level image. Use it to add waves, dynamic gradients, or whatever strikes your fancy.
+Tired of plain old linear gauges? Then add a little pizzaz with a liquid container. Rather than showing your data statically, this widget sports a scrolling level image. Use it to add waves, dynamic gradients, or whatever strikes your fancy, to your user interface.
 
 The liquid container uses two images, one for the container (which is static) and one for the liquid within (which is animated). The container image must have a transparent section. This serves as a viewport through which the liquid image is shown. The liquid image should be at least the size of the viewport and have matching left and right sides for smooth wrapping around when scrolling.
 
